@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Electricity-Billing-System/src"/>
+	<classpathentry kind="lib" path="Electricity-Billing-System/mysql-connector-java-8.0.27.jar"/>
+	<classpathentry kind="lib" path="Electricity-Billing-System/rs2xml.jar"/>
+	<classpathentry kind="output" path="Electricity-Billing-System/build/classes"/>
+</classpath>
